@@ -1,0 +1,11 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/facosta0787/menu-flexbox.git",
+  "author": "Felipe Acosta <facosta0787@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
